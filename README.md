@@ -87,16 +87,19 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 | Evaluación | Fecha |
 | :-------------- | :--------- |
+| I1    | 3 de abril     | 
+| I2    | 5 de junio     | 
+| I3    | 4 de julio     | 
 ### Tareas
 
 Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito.
 
 | Evaluación | Fecha Publicacion  | Fecha Entrega      |
 | :--------- | :----------------- | :----------------- |
-| Tarea 0    | AA AAA AAA     | AA AAA AAA     |
-| Tarea 1    | AA AAA AAA     | AA AAA AAA     |
-| Tarea 2    | AA AAA AAA     | AA AAA AAA     |
-| Tarea 3    | AA AAA AAA     | AA AAA AAA     |
+| Tarea 0    | 13 de marzo     | 27 de marzo    |
+| Tarea 1    | 10 de abril     | 21 de abril     |
+| Tarea 2    | 8 de mayo     | 19 de mayo   |
+| Tarea 3    | 6 de junio     | 22 de junio    |
 
 La nota final del curso se calcula de la siguiente manera:
 
