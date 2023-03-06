@@ -16,6 +16,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Material Tareas](#material-tareas)
   - [Clases](#clases)
   - [Ayudantías](#ayudantías)
+  - [Programa](#programa)
   - [Equipo](#equipo)
     - [Profesores](#profesores)
     - [Ayudantes](#ayudantes)
@@ -58,6 +59,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 |   Tipo    | Número | Tema | | Material   |
 | :--- | :--- | :--- | :--- | :--- |
+
+## Programa
+
+El programa detallado del curso se encuentra disponible [aquí](https://github.com/IIC2133-PUC/2023-1/blob/master/Programa/programa.pdf)
 
 ## Equipo
 
