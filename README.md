@@ -76,6 +76,26 @@ El programa detallado del curso se encuentra disponible [aquí](https://github.c
 
 | Nombre    | Email    | Github |
 | :----------------------- | :---------------------- | :------------------------------------------------------- |
+| Carlos Paredes | cparedesr@uc.cl | [CarloGauss33](https://github.com/CarloGauss33) |
+| Catalina Alamos | catalina.alamos@uc.cl | [CataAlamos](https://github.com/CataAlamos) |
+| Antonia Caceres | antoniacaceres@uc.cl | [antoniacaceres](https://github.com/antoniacaceres) |
+| Martín Illanes | martin.illanes@uc.cl | [illanes00](https://github.com/illanes00) |
+| Anita Marti | asmarti@uc.cl | [4n1t4](https://github.com/4n1t4) |
+| Francisca de la Barra | fddelabarra@uc.cl | [fddelabarra](https://github.com/fddelabarra) |
+| Tamara Han | than@uc.cl | [tamyhan](https://github.com/tamyhan) |
+| Estefania Cofré | estefania.pakarati@uc.cl | [Pakarati](https://github.com/Pakarati) |
+| Dafne Arriagada | dafne.arriagada@uc.cl | [Dafnemami](https://github.com/Dafnemami) |
+| Sebastián Cavagnaro | scavagnaro@uc.cl | [scavagnaro](https://github.com/scavagnaro) |
+| Alonso Tamayo | aetamayo@uc.cl | [aetamayo](https://github.com/aetamayo ) |
+| Joaquín Viñuela | joaquin.vinuela@uc.cl | [Vinuelax](https://github.com/Vinuelax) |
+| Nicole Caballero | nicole.caballero@uc.cl | [nicolecll](https://github.com/nicolecll) |
+| Pablo Soto | p.soto.g@uc.cl | [pablo-soto](https://github.com/pablo-soto) |
+| Sebastián Terrazas | sebaterrazas@uc.cl | [sebaterrazas](https://github.com/sebaterrazas) |
+| Francisca Aguilera | faguilera@uc.cl | [faguilerag](https://github.com/faguilerag) |
+| Martín Orrego | martinorregosilva@uc.cl | [OrregoSilva](https://github.com/OrregoSilva) |
+| Victor Hernández | victorllagos@uc.cl | [victorllagos](https://github.com/victorllagos) |
+| Nicolás Santa María | n.santamaria@uc.cl | [nsantama](https://github.com/nsantama) |
+| José Antonio Castro | jacastro18@uc.cl | [Baelfire18](https://github.com/Baelfire18) |
 
 ## Evaluación
 
