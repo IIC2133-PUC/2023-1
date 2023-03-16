@@ -59,8 +59,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
   ## Ayudantías
 
-|   Tipo    | Número | Tema | | Material   |
-| :--- | :--- | :--- | :--- | :--- |
+|   Tipo    | Número | Tema | | Material | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Taller | 0 | Introducción a C | | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudantias/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/tree/master/Ayudantias/Taller%20de%20C/example-dog)
+
 
 ## Programa
 
