@@ -33,6 +33,9 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 - [Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 
 ### Capsulas de EDD y Algoritmos en C
+
+- [Capsula Heap y Stack](https://youtu.be/tu1nphxqYyI)
+- [Capsula Estructuras Básicas](https://youtu.be/UMeK8mr3Nyg)
 - [Capsula DFS](https://youtu.be/tJV3CV0edl0)
 - [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
 - [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
