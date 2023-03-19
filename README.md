@@ -48,6 +48,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ## Material Tareas
 
 - T0
+  - [Capsula Heap y Stack](https://youtu.be/tu1nphxqYyI)
+  - [Capsula Estructuras Básicas](https://youtu.be/UMeK8mr3Nyg)
+  - [Test Cases](https://drive.google.com/drive/folders/1HkSFOPeT2n6aOAhIUCv02rXbzWAGLfSJ?usp=sharing)
+
 - T1
 - T2
 - T3
@@ -62,9 +66,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
   ## Ayudantías
 
-|   Tipo    | Número | Tema | | Material | |
+|   Tipo    | Número | Tema | Fecha | Material | |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Taller | 0 | Introducción a C | | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudantias/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/tree/master/Ayudantias/Taller%20de%20C/example-dog)
+| Taller | 0 | Introducción a C | V10 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/tree/master/Ayudant%C3%ADas/Taller%20de%20C/example-dog)
+| Ayudantía | 1 | Sorting | V17 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2001_%20Sorting.pdf)
 
 
 ## Programa
