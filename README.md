@@ -58,11 +58,12 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 ## Clases
 
-|   Tipo    | Número | Tema | Fecha | Sección 1  | Sección 2 |
-| :-------: | :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-| Cátedra | 0| Introducción al curso | 2023-03-06 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class00%20-%20Introducci%C3%B3n%20al%20curso%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class00%20-%20Introducci%C3%B3n%20al%20curso%20-%20secci%C3%B3n%202.pdf) |
-| Cátedra | 1| SelectionSort | 2023-03-13 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class01%20-%20Selectionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class01%20-%20Selectionsort%20-%20secci%C3%B3n%202.pdf) |
-| Cátedra | 2| InsertionSort | 2023-03-15 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class02-%20Insertionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class02-%20Insertionsort%20-%20secci%C3%B3n%202.pdf) |
+| Número | Tema | Fecha | Sección 1  | Sección 2 |
+| :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| 0| Introducción al curso | 2023-03-06 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class00%20-%20Introducci%C3%B3n%20al%20curso%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class00%20-%20Introducci%C3%B3n%20al%20curso%20-%20secci%C3%B3n%202.pdf) |
+| 1| SelectionSort | 2023-03-13 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class01%20-%20Selectionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class01%20-%20Selectionsort%20-%20secci%C3%B3n%202.pdf) |
+| 2| InsertionSort | 2023-03-15 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class02-%20Insertionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class02-%20Insertionsort%20-%20secci%C3%B3n%202.pdf) |
+| 3| MergeSort | 2023-03-20 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class03-%20Mergesort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class03-%20Mergesort%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
