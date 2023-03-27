@@ -65,6 +65,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 2| InsertionSort | 2023-03-15 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class02-%20Insertionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class02-%20Insertionsort%20-%20secci%C3%B3n%202.pdf) |
 | 3| MergeSort | 2023-03-20 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class03-%20Mergesort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class03-%20Mergesort%20-%20secci%C3%B3n%202.pdf) |
 | 4| QuickSort | 2023-03-22 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class04%20-%20Quicksort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class04%20-%20Quicksort%20-%20secci%C3%B3n%202.pdf) |
+| 5| Propiedades de QuickSort | 2023-03-27 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class05%20-%20Propiedades%20Quicksort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class05%20-%20Propiedades%20Quicksort%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
