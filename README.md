@@ -75,7 +75,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Taller | 0 | Introducción a C | M8 y V10 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Taller%20de%20C/Taller%200_%20Introduccion%20a%20C.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/tree/master/Ayudant%C3%ADas/Taller%20de%20C/example-dog)
 | Ayudantía | 1 | Sorting | V17 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2001_%20Sorting.pdf)
 | Ayudantía | 2 | Merge, MergeSort y QuickSort | V24 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2002_%20Merge%2C%20MergeSort%20y%20QuickSort.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/merge.c)
-
+| Ayudantía | 3 | Repaso I1 | V31 de Marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudantia%20Repaso%20I1.pdf)
 
 ## Programa
 
