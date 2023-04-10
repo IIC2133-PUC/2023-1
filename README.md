@@ -68,6 +68,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 5| Propiedades de QuickSort | 2023-03-27 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class05%20-%20Propiedades%20Quicksort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class05%20-%20Propiedades%20Quicksort%20-%20secci%C3%B3n%202.pdf) |
 | 6| Repaso I1 | 2023-03-29 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class06%20-%20Repaso%20I1%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class06%20-%20Repaso%20I1%20-%20secci%C3%B3n%202.pdf) |
 | 7| Árboles binarios de búsqueda | 2023-04-05 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class07%20-%20Arboles%20binarios%20de%20busqueda%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class07%20-%20Arboles%20binarios%20de%20busqueda%20-%20secci%C3%B3n%202.pdf) |
+| 8| Árboles AVL | 2023-04-10 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class08%20-%20Arboles%20AVL%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class08%20-%20Arboles%20AVL%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
