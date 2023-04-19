@@ -71,6 +71,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 8| Árboles AVL | 2023-04-10 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class08%20-%20Arboles%20AVL%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class08%20-%20Arboles%20AVL%20-%20secci%C3%B3n%202.pdf) |
 | 9| Árboles 2-3 | 2023-04-12 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class09%20-%20Arboles%202-3%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class09%20-%20Arboles%202-3%20-%20secci%C3%B3n%202.pdf) |
 | 10| Árboles rojo-negro | 2023-04-17 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class10%20-%20Arboles%20rojo%20negro%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class10%20-%20Arboles%20rojo%20negro%20-%20secci%C3%B3n%202.pdf) |
+| 11| Eliminación en rojo-negro | 2023-04-19 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class11%20-%20Arboles%20rojo%20negro%20II%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class11%20-%20Arboles%20rojo%20negro%20II%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
