@@ -82,7 +82,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 01 | Sorting | V17 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2001_%20Sorting.pdf)
 | Ayudantía | 02 | Merge, MergeSort y QuickSort | V24 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2002_%20Merge%2C%20MergeSort%20y%20QuickSort.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/merge.c)
 | Ayudantía | 03 | Repaso I1 | V31 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2003_%20Repaso%20I1.pdf)
-| Ayudantía | 04 | Árboles y Árboles Binarios.pdf | V14 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2004_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) 
+| Ayudantía | 04 | Árboles y Árboles Binarios | V14 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2004_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) 
+| Ayudantía | 05 | Árboles RojoNegro | V21 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2004_%20%C3%81rboles%20RojoNegro.pdf) 
 
 ## Programa
 
