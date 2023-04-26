@@ -73,6 +73,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 10| Árboles rojo-negro | 2023-04-17 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class10%20-%20Arboles%20rojo%20negro%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class10%20-%20Arboles%20rojo%20negro%20-%20secci%C3%B3n%202.pdf) |
 | 11| Eliminación en rojo-negro | 2023-04-19 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class11%20-%20Arboles%20rojo%20negro%20II%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class11%20-%20Arboles%20rojo%20negro%20II%20-%20secci%C3%B3n%202.pdf) |
 | 12| Tablas de hash | 2023-04-24 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class12%20-%20Tablas%20de%20hash%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class12%20-%20Tablas%20de%20hash%20-%20secci%C3%B3n%202.pdf) |
+| 13| Hashing y ordenación lineal | 2023-04-26 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class13%20-%20Hash%20y%20sorting%20lineal%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class13%20-%20Hash%20y%20sorting%20lineal%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
