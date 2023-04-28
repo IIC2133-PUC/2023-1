@@ -44,6 +44,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ### Material catedra extra
 - [Lista de reproducción 2021-2](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
 - [Explicación BVH y KdTree](https://youtu.be/_mSVK0OaaYw)
+- [Ayudantía 6](https://drive.google.com/file/d/1hoWTwjntLOUss8t9hYky-Z1G0gCExrjq/view?usp=share_link)
 
 ## Material Tareas
 
