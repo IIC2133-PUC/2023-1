@@ -148,7 +148,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 | :--------- | :----------------- | :----------------- |
 | Tarea 0    | 13 de marzo     | 27 de marzo    |
 | Tarea 1    | 10 de abril     | 26 de abril     |
-| Tarea 2    | 8 de mayo     | 19 de mayo   |
+| Tarea 2    | 8 de mayo     | 22 de mayo   |
 | Tarea 3    | 6 de junio     | 22 de junio    |
 
 La nota final del curso se calcula de la siguiente manera:
