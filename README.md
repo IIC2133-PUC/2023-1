@@ -79,6 +79,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 14| Backtracking | 2023-05-08 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class14%20-%20Backtracking%20I%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class14%20-%20Backtracking%20I%20-%20secci%C3%B3n%202.pdf) |
 | 15| Mejoras de Backtracking | 2023-05-10 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class15%20-%20Backtracking%20II%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class15%20-%20Backtracking%20II%20-%20secci%C3%B3n%202.pdf) |
 | 16| Grafos | 2023-05-15 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class16%20-%20Grafos%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class16%20-%20Grafos%20-%20secci%C3%B3n%202.pdf) |
+| 17| DFS y aplicaciones | 2023-05-17 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class17%20-%20DFS%20y%20aplicaciones%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class17%20-%20DFS%20y%20aplicaciones%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
