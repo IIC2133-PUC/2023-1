@@ -55,6 +55,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 - T1
 - T2
+  - [Capsula T2] (https://youtu.be/rz-Cvezg0GU) 
 - T3
 
 ## Clases
