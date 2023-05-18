@@ -91,7 +91,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 03 | Repaso I1 | V31 de marzo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2003_%20Repaso%20I1.pdf)
 | Ayudantía | 04 | Árboles y Árboles Binarios | V14 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2004_%20%C3%81rboles%20y%20%C3%81rboles%20Binarios.pdf) 
 | Ayudantía | 05 | Árboles RojoNegro | V21 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2005_%20%C3%81rboles%20RojoNegro.pdf) 
-| Ayudantía | 06 | Hashing | V28 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206_%20Hashing.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/hash.c) | [Grabación](https://drive.google.com/file/d/1hoWTwjntLOUss8t9hYky-Z1G0gCExrjq/view?usp=share_link)
+| Ayudantía | 06 | Hashing | V28 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2006_%20Hashing.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/hash.c) | [Grabación](https://drive.google.com/file/d/1hoWTwjntLOUss8t9hYky-Z1G0gCExrjq/view?usp=share_link)
+| Ayudantía | 07 | Backtracking | V12 de mayo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2007_%20Backtracking.pdf) |
 
 
 ## Programa
