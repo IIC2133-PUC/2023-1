@@ -97,7 +97,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 06 | Hashing | V28 de abril | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2006_%20Hashing.pdf) | [Código de Ejemplo](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/hash.c) | [Grabación](https://drive.google.com/file/d/1hoWTwjntLOUss8t9hYky-Z1G0gCExrjq/view?usp=share_link)
 | Ayudantía | 07 | Backtracking | V12 de mayo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2007_%20Backtracking.pdf) |
 | Ayudantía | 08 | Grafos y DFS | V19 de mayo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2008_%20Grafos%20y%20DFS.pdf) |
-| Ayudantía | 09 | DP y Greedy | V26 de mayo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudantia%2009_%20DP%20&%20Greedy.pdf)
+| Ayudantía | 09 | DP y Greedy | V26 de mayo | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%2009_%20DP%20&%20Greedy.pdf)
 
 
 ## Programa
