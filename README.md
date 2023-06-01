@@ -11,7 +11,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Material Complementario](#material-complementario)
     - [Talleres fundamentos de C](#talleres-fundamentos-de-c)
-    - [Capsulas de EDD y Algoritmos en C](#capsulas-de-edd-y-algoritmos-en-c)
+    - [Cápsulas de EDD y Algoritmos en C](#Cápsulas-de-edd-y-algoritmos-en-c)
     - [Material catedra extra](#material-catedra-extra)
   - [Material Tareas](#material-tareas)
   - [Clases](#clases)
@@ -30,16 +30,16 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ### Talleres fundamentos de C
 
 - [Intro a C por Vicente Errázuriz y Raúl Álvarez](https://github.com/DCCentral-de-Apuntes/intro-C)
-- [Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
+- [Cápsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 
-### Capsulas de EDD y Algoritmos en C
+### Cápsulas de EDD y Algoritmos en C
 
-- [Capsula Heap y Stack](https://youtu.be/tu1nphxqYyI)
-- [Capsula Estructuras Básicas](https://youtu.be/UMeK8mr3Nyg)
-- [Capsula DFS](https://youtu.be/tJV3CV0edl0)
-- [Capsula BST en C](https://youtu.be/j9W1qKCvFRE)
-- [Capsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
-- [Capsula MinHeap en C](https://youtu.be/LYe67zvL9vY)
+- [Cápsula Heap y Stack](https://youtu.be/tu1nphxqYyI)
+- [Cápsula Estructuras Básicas](https://youtu.be/UMeK8mr3Nyg)
+- [Cápsula DFS](https://youtu.be/tJV3CV0edl0)
+- [Cápsula BST en C](https://youtu.be/j9W1qKCvFRE)
+- [Cápsula Tablas de Hash en C](https://youtu.be/P1DOE8W_RD4)
+- [Cápsula MinHeap en C](https://youtu.be/LYe67zvL9vY)
 
 ### Material catedra extra
 - [Lista de reproducción 2021-2](https://www.youtube.com/playlist?list=PLgIrOsyBCImpDQu30UKrMVSRHf3gW2gKb).
@@ -49,19 +49,19 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ## Material Tareas
 
 - T0
-  - [Capsula Heap y Stack](https://youtu.be/tu1nphxqYyI)
-  - [Capsula Estructuras Básicas](https://youtu.be/UMeK8mr3Nyg)
+  - [Cápsula Heap y Stack](https://youtu.be/tu1nphxqYyI)
+  - [Cápsula Estructuras Básicas](https://youtu.be/UMeK8mr3Nyg)
   - [Test Cases](https://drive.google.com/drive/folders/1HkSFOPeT2n6aOAhIUCv02rXbzWAGLfSJ?usp=sharing)
 
 - T1
 - T2
-  - [Capsula T2](https://youtu.be/rz-Cvezg0GU) 
+  - [Cápsula T2](https://youtu.be/rz-Cvezg0GU) 
 - T3
 
 ## Clases
 
-| Número | Tema | Fecha | Sección 1  | Sección 2 |
-| :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+| Número | Tema | Fecha | Sección 1  | Sección 2 | | |
+| :----: | :------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :---: | 
 | 0| Introducción al curso | 2023-03-06 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class00%20-%20Introducci%C3%B3n%20al%20curso%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class00%20-%20Introducci%C3%B3n%20al%20curso%20-%20secci%C3%B3n%202.pdf) |
 | 1| SelectionSort | 2023-03-13 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class01%20-%20Selectionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class01%20-%20Selectionsort%20-%20secci%C3%B3n%202.pdf) |
 | 2| InsertionSort | 2023-03-15 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class02-%20Insertionsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class02-%20Insertionsort%20-%20secci%C3%B3n%202.pdf) |
