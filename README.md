@@ -85,6 +85,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | 20| Heaps | 2023-05-29 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class20%20-%20Heaps%20y%20heapsort%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class20%20-%20Heaps%20y%20heapsort%20-%20secci%C3%B3n%202.pdf) |
 | 21| Repaso I2 | 2023-05-31 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class21%20-%20Repaso%20I2%20-%20secci%C3%B3n%201.pdf)<br>[Grabación](https://youtu.be/-Yq0lsl6zbA) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class21%20-%20Repaso%20I2%20-%20secci%C3%B3n%202.pdf)<br>[Grabación](https://youtu.be/XoKeHVb5OX0) |
 | 22| MST y algoritmo de Prim | 2023-06-07 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class22%20-%20MST%20y%20algoritmo%20de%20Prim%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class22%20-%20MST%20y%20algoritmo%20de%20Prim%20-%20secci%C3%B3n%202.pdf) |
+| 23| BFS y algoritmo de Dijkstra | 2023-06-14 | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%201/class24%20-%20BFS%20y%20Dijkstra%20-%20secci%C3%B3n%201.pdf) | [Diapos](https://github.com/IIC2133-PUC/2023-1/blob/master/Clases/secci%C3%B3n%202/class24%20-%20BFS%20y%20Dijkstra%20-%20secci%C3%B3n%202.pdf) |
 
   ## Ayudantías
 
